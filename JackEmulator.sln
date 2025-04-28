@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JackEmulator", "JackEmulator.csproj", "{210EE86E-EC5E-0E1D-5A43-BFAC64FA1DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210EE86E-EC5E-0E1D-5A43-BFAC64FA1DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210EE86E-EC5E-0E1D-5A43-BFAC64FA1DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210EE86E-EC5E-0E1D-5A43-BFAC64FA1DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210EE86E-EC5E-0E1D-5A43-BFAC64FA1DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24890EA9-5EE4-4D43-9740-E43BA18AF875}
+	EndGlobalSection
+EndGlobal
